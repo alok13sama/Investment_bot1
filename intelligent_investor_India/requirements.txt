@@ -4,3 +4,6 @@ yfinance
 plotly
 numpy
 python-dotenv
+textblob
+nltk
+matplotlib
